@@ -1,6 +1,6 @@
 ﻿//Source File: Life
 //Author: Franco Chong
-//Date Modified: November 19, 2015
+//Date Modified: November 18, 2015
 //Program Description: Calculates the life.
 
 
